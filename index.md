@@ -5,7 +5,6 @@
 <p>
 Season of mists and mellow fruitfulness<br>
 Close- bosomed friend of the naturing sun <br>
-
 </p>
 <br>
 <p>How to make a cup of tea</p>
@@ -15,3 +14,10 @@ Close- bosomed friend of the naturing sun <br>
   <li>pour the water in the mug</li>
   <li>stir and add milk</li>
 </ol>
+<br>
+<p> Things to do today </p>
+<ul>
+  <li>Complete work</li>
+  <li>Go to uni</li>
+  <li>Go home</li>
+  
