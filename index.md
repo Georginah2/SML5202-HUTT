@@ -32,7 +32,7 @@ What I have to do today
 <ul>
   <li> Finish French prep work </li>
   <li> Work on my essays </li>
-  <li> Ring my mum </li> </p>
+  <li> Ring my mum </li>
  
 <p> <h1> Section 3 </h1>
  My favourite things 
