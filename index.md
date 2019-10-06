@@ -35,7 +35,7 @@ What I have to do today
   <li> Ring my mum </li>
  </p>
  
- <p> <h1> Section 3 </h1>
+<p> <h1> Section 3 </h1>
  My favourite things 
  <ol> 
   <li> My friends </li>
