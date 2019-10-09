@@ -29,8 +29,8 @@ Close- bosomed friend of the naturing sun <br>
 My name is Georgina and I am from Lytham St Anne's, near Blackpool. I have lived in London for one year now, for university. I study French at university. 
 <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=georgina-hutt&page=sml5202-georgina" > Visit my Qmplus hub page </a> 
 </p>
-
-<p> <h1> Section 2 </h1>
+<p> 
+<h1> Section 2 </h1>
 What I have to do today
 <ul>
   <li> Finish French prep work </li>
