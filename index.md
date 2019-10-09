@@ -41,4 +41,8 @@ What I have to do today
   <li> My family </li>
   <li> Food </li>
 
-  
+  <p>
+  <a href="page2.html"> Page 2 </a>
+  <a href="page3.html"> Page 3 </a>
+
+  </p>
