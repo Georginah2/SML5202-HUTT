@@ -2,6 +2,7 @@
 <p>This website is about English language, culture and literature.</p>
 
 <h2>Ode to Autumn</h2>
+<body>
 <p>
 Season of mists and mellow fruitfulness<br>
 Close- bosomed friend of the naturing sun <br>
@@ -22,10 +23,10 @@ Close- bosomed friend of the naturing sun <br>
   <li>Go home</li>
   <br>
   
-  <p> <h1> Section 1 </h1> </p>
+<p> <h1> Section 1 </h1> </p>
 <p>  My name is Georgina and I am from Lytham St Anne's, near Blackpool. I have lived in London for one year now, for university. I study French at university. 
-  <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=georgina-hutt&page=sml5202-georgina" > Visit my Qmplus hub page </a> 
- </p>
+<a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=georgina-hutt&page=sml5202-georgina" > Visit my Qmplus hub page </a> 
+</p>
 
 <p> <h1> Section 2 </h1>
 What I have to do today
@@ -36,13 +37,14 @@ What I have to do today
  
 <p> <h1> Section 3 </h1>
  My favourite things 
- <ol> 
-  <li> My friends </li>
-  <li> My family </li>
-  <li> Food </li>
+<ol> 
+ <li> My friends </li>
+ <li> My family </li>
+ <li> Food </li>
 
-  <p>
-  <a href="page2.html"> Page 2 </a> <br>
-  <a href="page3.html"> Page 3 </a>
+<p>
+<a href="page2.html"> Page 2 </a> <br>
+<a href="page3.html"> Page 3 </a>
 
   </p>
+</body>
