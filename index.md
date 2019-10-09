@@ -44,5 +44,5 @@ What I have to do today
 <br>
 <a href="https://georginah2.github.io/SML5202-HUTT/page2.html"> Page 2 </a> <br>
 <a href="https://georginah2.github.io/SML5202-HUTT/page3.html"> Page 3 </a>
-</p>
+
 
