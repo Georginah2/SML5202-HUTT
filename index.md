@@ -21,9 +21,7 @@ Close- bosomed friend of the naturing sun <br>
   <li>Complete work</li>
   <li>Go to uni</li>
   <li>Go home</li>
-  <br>
-  
-<p> 
+<br><p> 
 <h1> Section 1 </h1> </p>
 <p>  
 My name is Georgina and I am from Lytham St Anne's, near Blackpool. I have lived in London for one year now, for university. I study French at university. 
