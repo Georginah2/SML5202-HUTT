@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: Georgina's page
 description: A webpage for practising using github and html
+github:
+  page2: page2.html
+  page3: page3.html
