@@ -23,8 +23,10 @@ Close- bosomed friend of the naturing sun <br>
   <li>Go home</li>
   <br>
   
-<p> <h1> Section 1 </h1> </p>
-<p>  My name is Georgina and I am from Lytham St Anne's, near Blackpool. I have lived in London for one year now, for university. I study French at university. 
+<p> 
+<h1> Section 1 </h1> </p>
+<p>  
+My name is Georgina and I am from Lytham St Anne's, near Blackpool. I have lived in London for one year now, for university. I study French at university. 
 <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=georgina-hutt&page=sml5202-georgina" > Visit my Qmplus hub page </a> 
 </p>
 
@@ -41,9 +43,8 @@ What I have to do today
  <li> My friends </li>
  <li> My family </li>
  <li> Food </li>
-</body> <body>
 </p><br><p>
 <a href="page2.html"> Page 2 </a> <br>
 <a href="page3.html"> Page 3 </a>
-  </p>
+</p>
 </body>
