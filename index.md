@@ -41,11 +41,8 @@ What I have to do today
  <li> My friends </li>
  <li> My family </li>
  <li> Food </li>
-</p>
-<br>
-<p>
+</p><br><p>
 <a href="page2.html"> Page 2 </a> <br>
 <a href="page3.html"> Page 3 </a>
-
   </p>
 </body>
